@@ -2,3 +2,6 @@ ul{
     display: flex;
     flex-direction: end;
 }
+.foot {
+    background-color: #000;
+}
